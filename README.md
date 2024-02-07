@@ -8,6 +8,9 @@
 
 [![YouTube](https://img.youtube.com/vi/kMGjOr974vE/0.jpg)](https://www.youtube.com/watch?v=kMGjOr974vE)
 
+> Report available at:
+> [Style Transfer Using Stable Diffusion](http://arxiv.org/abs/2312.03993))
+
 ## Code
 
 This code base was used to implement the final project for the course EE371Q Digital Image Processing. 
